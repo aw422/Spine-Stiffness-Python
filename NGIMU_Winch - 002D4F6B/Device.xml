@@ -1,0 +1,16 @@
+<Device>
+  <DeviceInformation DeviceName="NGIMU_Winch" SerialNumber="002D4F6B" FirmwareVersion="v1.15 (Apr 26 2021 10:29:52)" BootloaderVersion="v1.1 (Sep 28 2016 17:05:48)" HardwareVersion="v1.6 (March 2018)" />
+  <ConnectionInformation ConnectionType="Udp" SendIPAddress="192.168.1.6" SendPort="9000" AdapterIPAddress="192.168.1.5" ReceivePort="8006" AdapterName="Intel(R) Dual Band Wireless-AC 8260" />
+  <TimeStamps First="2022-02-04 12:31:59.228" Last="2022-02-04 12:34:30.791" TimeSpan="00:02:31.563" />
+  <FilesCreated>
+    <File Name="sensors.csv" Messages="26676" />
+    <File Name="magnitudes.csv" Messages="26672" />
+    <File Name="quaternion.csv" Messages="26670" />
+    <File Name="matrix.csv" Messages="26669" />
+    <File Name="euler.csv" Messages="26666" />
+    <File Name="linear.csv" Messages="26663" />
+    <File Name="earth.csv" Messages="26661" />
+    <File Name="rssi.csv" Messages="303" />
+  </FilesCreated>
+  <Statistics BytesReceived="23576012" PacketsReceived="17697" BundlesReceived="388397" MessagesReceived="370780" ReceiveErrors="0" />
+</Device>

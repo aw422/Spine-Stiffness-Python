@@ -1,0 +1,19 @@
+<Device>
+  <DeviceInformation DeviceName="NGIMU_L1" SerialNumber="002F29E4" FirmwareVersion="v1.15 (Apr 26 2021 10:29:52)" BootloaderVersion="v1.1 (Sep 28 2016 17:05:48)" HardwareVersion="v1.6 (June 2018)" />
+  <ConnectionInformation ConnectionType="Udp" SendIPAddress="192.168.1.3" SendPort="9000" AdapterIPAddress="192.168.1.5" ReceivePort="8003" AdapterName="Intel(R) Dual Band Wireless-AC 8260" />
+  <TimeStamps First="2022-02-04 12:31:59.229" Last="2022-02-04 12:34:30.795" TimeSpan="00:02:31.566" />
+  <FilesCreated>
+    <File Name="sensors.csv" Messages="26301" />
+    <File Name="magnitudes.csv" Messages="26298" />
+    <File Name="quaternion.csv" Messages="26297" />
+    <File Name="matrix.csv" Messages="26294" />
+    <File Name="euler.csv" Messages="26292" />
+    <File Name="linear.csv" Messages="26286" />
+    <File Name="earth.csv" Messages="26285" />
+    <File Name="temperature.csv" Messages="152" />
+    <File Name="humidity.csv" Messages="152" />
+    <File Name="battery.csv" Messages="152" />
+    <File Name="rssi.csv" Messages="303" />
+  </FilesCreated>
+  <Statistics BytesReceived="23645112" PacketsReceived="17806" BundlesReceived="389619" MessagesReceived="371893" ReceiveErrors="0" />
+</Device>
