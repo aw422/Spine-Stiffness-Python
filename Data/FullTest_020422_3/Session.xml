@@ -1,0 +1,10 @@
+<Session>
+  <SessionInformation Name="FullTest_020422_3" Date="2022-02-04 12:37:39" Duration="00:01:14.692" />
+  <ApplicationInformation ApplicationName="NGIMU Synchronised Network Manager" ApplicationVersion="1.18.7918.40970" ApiVersion="1.18.7918.40970" />
+  <UserInformation UserName="dspa" MachineName="LP36461" />
+  <Devices>
+    <Device SerialNumber="002F2E12" DeviceName="NGIMU_S1" ConnectionType="Udp" DirectoryName="NGIMU_S1 - 002F2E12" />
+    <Device SerialNumber="002F29E4" DeviceName="NGIMU_L1" ConnectionType="Udp" DirectoryName="NGIMU_L1 - 002F29E4" />
+    <Device SerialNumber="002D4F6B" DeviceName="NGIMU_Winch" ConnectionType="Udp" DirectoryName="NGIMU_Winch - 002D4F6B" />
+  </Devices>
+</Session>
