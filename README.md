@@ -17,7 +17,7 @@ This pipeline is written in Python (Jupyter Notebook format) and leverages stand
 * **NumPy:** For matrix operations, coordinate transformations, and mathematical modeling.
 * **Pandas:** For importing, cleaning, and structuring messy, time-synchronized CSV/Excel sensor outputs.
 * **Matplotlib** For generating kinematic signal and load-displacement plots.
-* **SciPy:** Used for signal conditioning, data filtering (e.g., Butterworth low-pass filtering), and numerical derivatives.
+* **SciPy:** Used for signal conditioning and data filtering.
 
 ## Project Origin
 This pipeline represents an independent technical translation and optimization of custom MATLAB algorithms originally developed for spinal biomechanics research.
